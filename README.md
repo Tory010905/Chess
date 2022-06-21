@@ -8,6 +8,6 @@ but I had vision and made it work.
 
 # Implemented mechanics
 
-Game supports all legal chess moves, including castling, upgrading pawns, castling, checks and ent passant.
+Game supports all legal chess moves including castling, upgrading pawns, checks and en passant.
 
 Also has turn tracker, undone move button and reset button.
