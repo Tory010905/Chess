@@ -10,4 +10,4 @@ but I had vision and made it work.
 
 Game supports all legal chess moves including castling, upgrading pawns, checks and en passant.
 
-Also has turn tracker, undone move button and reset button.
+Also has turn tracker, undo move button and reset button.
